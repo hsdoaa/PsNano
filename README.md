@@ -40,11 +40,11 @@ Anaconda3 			    2019.10
 # Running the software
 - To train SVM and perform predictions:
 This step includes SVM training, prediction and performance assessment using the features that lead to best performance.
->python SVM.py 
+$ python SVM.py 
 
 - Similarly, to train NN and perform predictions:
->python NN.py 
+$ python NN.py 
 
 - Finally to train RF and perform predictions:
->python RF.py
+$ python RF.py
 
