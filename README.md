@@ -51,3 +51,6 @@ $ python NN.py
 
 $ python RF.py
 
+# Authors:
+Daniel Acevedo and Doaa Hassan
+
