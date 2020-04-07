@@ -12,7 +12,7 @@ Features extracted include:
 The predictor has been trained and tested upon a set of 'unmodified' and 'modified' sequences containing Pseudouridine at known sites or uridine. 
 The predictor can be adopted to detect other RNA modifications which has not yet been tested.
 
-# Considerations when using this software:
+# Considerations when using this predictor:
 Current trained machine learning models of PsNano are Support Vector Machine (SVM), Neural Network (NN), and Random Forest (RF). 
 Those models will only be accurate if the data is for hela cell line and has been base-called with Albacore 2.1.0.
 Training new models for data of different cell lines that is base-called using other basecallers has not been yet tested. 
@@ -37,7 +37,7 @@ tensorflow			    2.0.0
 tensorflow.keras		2.2.4-tf
 Anaconda3 			    2019.10
 
-# Running the software
+# Running the predictor
 - To train SVM and perform predictions:
 This step includes SVM training, prediction and performance assessment using the features that lead to best performance.
 
