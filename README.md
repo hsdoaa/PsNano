@@ -2,7 +2,7 @@
 A Predictor for RNA Pseudouridine sites in Oxford Nanopore RNA Sequencing reads
 
 # About PsNano
-PsNano is a predictor to identify Pseudouridine sites present in direct RNA sequencing reads. 
+PsNano is a predictor to identify Pseudouridine sites presented in direct RNA sequencing reads. 
 PsNano will extract a set of features from the raw signal extracted from Oxford Nanopore RNA Sequencing reads and the corresponding basecalled kmer, which will be in turn used to predict whether the signal is modified by the presence of pseudouridine sites or not. 
 Features extracted include:
 - k-mer one hot encoding
