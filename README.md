@@ -29,19 +29,19 @@ Training new models for data of different cell lines that is base-called using o
 
 The following softwares and modules were used by PsNano   
 
-python				      3.7.4
+- python				      3.7.4
 
-numpy				        1.18.1
+- numpy				        1.18.1
 
-pandas				      1.0.2
+- pandas				      1.0.2
 
-sklearn				      0.22.2.post1
+- sklearn				      0.22.2.post1
 
-tensorflow			    2.0.0
+- tensorflow			    2.0.0
 
-tensorflow.keras		2.2.4-tf
+- tensorflow.keras		2.2.4-tf
 
-Anaconda3 			    2019.10
+- Anaconda3 			    2019.10
 
 # Running the predictor
 - To train SVM and perform predictions:
