@@ -27,9 +27,7 @@ Training new models for data of different cell lines that is base-called using o
 
 # Getting Started and pre-requisites
 
-The following softwares and modules were used by PsNano
-
-Software			      Version   
+The following softwares and modules were used by PsNano   
 
 python				      3.7.4
 
